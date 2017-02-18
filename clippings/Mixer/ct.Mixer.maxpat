@@ -99,7 +99,8 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 105.0, 90.0, 44.0, 20.0 ],
 									"style" : "",
-									"text" : "Synth"
+									"text" : "Synth",
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 
 							}
@@ -222,6 +223,7 @@
 
 									}
 ,
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"varname" : "live.dial[3]"
 								}
 
@@ -247,6 +249,7 @@
 
 									}
 ,
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"varname" : "live.dial[2]"
 								}
 
@@ -272,6 +275,7 @@
 
 									}
 ,
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"varname" : "live.dial[1]"
 								}
 
@@ -299,6 +303,7 @@
 
 									}
 ,
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"varname" : "live.dial"
 								}
 
@@ -598,11 +603,11 @@
  ],
 		"lines" : [  ],
 		"parameters" : 		{
+			"obj-2::obj-29" : [ "Oscillator 1 Level", "Osc 1", 0 ],
+			"obj-2::obj-32" : [ "Noise Level", "Noise", 0 ],
 			"obj-2::obj-31" : [ "Ring Modulation Level", "Rng Mod", 0 ],
 			"obj-2::obj-30" : [ "Oscillator 2 Level", "Osc 2", 0 ],
-			"obj-2::obj-5" : [ "live.tab", "live.tab", 0 ],
-			"obj-2::obj-29" : [ "Oscillator 1 Level", "Osc 1", 0 ],
-			"obj-2::obj-32" : [ "Noise Level", "Noise", 0 ]
+			"obj-2::obj-5" : [ "live.tab", "live.tab", 0 ]
 		}
 ,
 		"dependency_cache" : [  ],
