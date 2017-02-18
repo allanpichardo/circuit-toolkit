@@ -16,6 +16,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 3. Re-start Max
 4. circuit-toolkig will be available via `right-click > paste from > circuit-toolkit`
 
+## Usage
+[![circuit-toolkit demo video](https://img.youtube.com/vi/w0rS_MFMvzo/0.jpg)](https://www.youtube.com/watch?v=w0rS_MFMvzo)
+
 ## Thanks
 Thanks to Novation for their superb support of the Circuit and of the user community. Thanks Stretta and Cycling 74 for the great BEAP tools. And, thanks to the Circuit Owners Group on Facebook.
 
